@@ -3,7 +3,7 @@
 ### Contributors
  > - Youngho Kim : youngho.kim@stonybrook.edu
  > - Dongha Song : dongha.song@stnoybrook.edu
- > - Jey Kang    : 
+ > - Jey Kang    : jey.kang@stonybrook.edu
 
 
 ### Targeting Population
